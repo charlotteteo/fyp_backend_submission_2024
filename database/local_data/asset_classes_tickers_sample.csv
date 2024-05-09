@@ -1,0 +1,100 @@
+asset_class,name,ticker
+Large Cap Blend,SPDR S&P 500 ETF Trust,SPY
+Large Cap Blend,iShares Russell 1000 ETF,IWB
+Large Cap Blend,Invesco QQQ Trust,QQQ
+Large Cap Blend,Vanguard Total Stock Market ETF,VTI
+Large Cap Blend,iShares Russell 1000 Value ETF,IWD
+Small Cap Blend,iShares Russell 2000 ETF,IWM
+Small Cap Blend,Vanguard Small-Cap ETF,VB
+Small Cap Blend,iShares Russell 2000 Value ETF,IWN
+Small Cap Blend,iShares Russell 2000 Growth ETF,IWO
+Small Cap Blend,iShares MSCI USA Small-Cap ETF,IJR
+International Stocks,iShares MSCI ACWI ex U.S. ETF,ACWX
+International Stocks,Vanguard FTSE All-World ex-U.S. ETF,VEU
+International Stocks,iShares MSCI EAFE ETF,EFA
+International Stocks,iShares MSCI Emerging Markets ETF,EEM
+International Stocks,iShares MSCI All Country World ex U.S. ETF,ACWI
+Emerging Markets,iShares MSCI Emerging Markets ETF,EEM
+Emerging Markets,Vanguard FTSE Emerging Markets ETF,VWO
+Emerging Markets,iShares Core MSCI Emerging Markets ETF,IEMG
+Emerging Markets,Schwab Emerging Markets Equity ETF,SCHE
+Emerging Markets,SPDR S&P Emerging Markets ETF,GMM
+Intermediate Bonds,iShares iBoxx $ Investment Grade Corporate Bond ETF,LQD
+Intermediate Bonds,Vanguard Intermediate-Term Corporate Bond ETF,VCIT
+Intermediate Bonds,iShares iBoxx $ Investment Grade Corporate Bond ETF,CORP
+International Bonds,iShares International Treasury Bond ETF,IGOV
+International Bonds,SPDR Bloomberg Barclays International Treasury Bond ETF,BWX
+International Bonds,iShares International Corporate Bond ETF,CIBR
+International Bonds,iShares Global Government Bond ETF,BWX
+International Bonds,iShares International Treasury Bond ETF,BWX
+Commodities,Invesco DB Commodity Index Tracking Fund,DBC
+Commodities,iShares S&P GSCI Commodity-Indexed Trust,GSG
+Commodities,United States Commodity Index Fund,USCI
+Commodities,iPath Series B Bloomberg Commodity Index Total Return ETN,DJP
+Commodities,SPDR S&P Global Natural Resources ETF,GNR
+REITs,Vanguard Real Estate ETF,VNQ
+REITs,iShares U.S. Real Estate ETF,IYR
+REITs,Schwab U.S. REIT ETF,SCHH
+REITs,Invesco S&P 500 Equal Weight Real Estate ETF,EWRE
+REITs,SPDR Dow Jones Global Real Estate ETF,RWO
+Total Stock Market,Vanguard Total Stock Market ETF,VTI
+Total Stock Market,Schwab U.S. Broad Market ETF,SCHB
+Total Stock Market,iShares Russell 3000 ETF,IWV
+Total Stock Market,SPDR MSCI ACWI IMI ETF,ACIM
+Total Stock Market,iShares MSCI ACWI ex U.S. ETF,ACWX
+Long Term Bonds,iShares iBoxx $ Investment Grade Corporate Bond ETF,LQD
+Long Term Bonds,iShares iBoxx $ High Yield Corporate Bond ETF,HYG
+Long Term Bonds,iShares iBoxx $ Investment Grade Corporate Bond ETF,CORP
+Gold,SPDR Gold Trust,GLD
+Gold,iShares Gold Trust,IAU
+Gold,Invesco DB Gold Fund,DGL
+Gold,Aberdeen Standard Physical Gold Shares ETF,SGOL
+Gold,VanEck Merk Gold Trust,OUNZ
+Large Cap Value,iShares Russell 1000 Value ETF,IWD
+Large Cap Value,Vanguard Value ETF,VTV
+Large Cap Value,SPDR Portfolio S&P 500 Value ETF,SPYV
+Large Cap Value,Invesco S&P 500 Value ETF,IVE
+Large Cap Value,Schwab U.S. Large-Cap Value ETF,SCHV
+Small Cap Value,iShares Russell 2000 Value ETF,IWN
+Small Cap Value,Vanguard Small-Cap Value ETF,VBR
+Small Cap Value,Invesco S&P SmallCap Value with Momentum ETF,SVAL
+Small Cap Value,SPDR S&P 600 Small Cap Value ETF,SLYV
+Small Cap Value,Schwab U.S. Small-Cap Value ETF,SCHV
+World Developed Stocks,iShares MSCI World ETF,URTH
+World Developed Stocks,iShares MSCI ACWI ex U.S. ETF,ACWX
+World Developed Stocks,Vanguard FTSE All-World ex-U.S. ETF,VEU
+World Developed Stocks,iShares MSCI EAFE ETF,EFA
+Emerging Market Stocks,iShares MSCI Emerging Markets ETF,EEM
+Emerging Market Stocks,Vanguard FTSE Emerging Markets ETF,VWO
+Emerging Market Stocks,iShares Core MSCI Emerging Markets ETF,IEMG
+Emerging Market Stocks,Schwab Emerging Markets Equity ETF,SCHE
+Emerging Market Stocks,SPDR S&P Emerging Markets ETF,GMM
+World Developed Intermediate Bonds,iShares iBoxx $ Investment Grade Corporate Bond ETF,LQD
+World Developed Intermediate Bonds,Vanguard Intermediate-Term Corporate Bond ETF,VCIT
+World Developed Intermediate Bonds,iShares iBoxx $ Investment Grade Corporate Bond ETF,CORP
+Short Term Bonds,iShares 1-3 Year Treasury Bond ETF,SHY
+Short Term Bonds,Vanguard Short-Term Corporate Bond ETF,VCSH
+Short Term Bonds,iShares Short Treasury Bond ETF,SHV
+Short Term Bonds,SPDR Bloomberg Barclays 1-3 Month T-Bill ETF,BIL
+Short Term Bonds,iShares Short Maturity Bond ETF,NEAR
+Small Cap Growth,iShares Russell 2000 Growth ETF,IWO
+Small Cap Growth,Vanguard Small-Cap Growth ETF,VBK
+Small Cap Growth,Invesco S&P SmallCap 600 Pure Growth ETF,RZG
+Small Cap Growth,SPDR S&P 600 Small Cap Growth ETF,SLYG
+Small Cap Growth,Schwab U.S. Small-Cap Growth ETF,SCHG
+International Small Cap Value,iShares MSCI EAFE Small-Cap Value ETF,SCZ
+International Small Cap Value,SPDR S&P International Small Cap ETF,GWX
+International Small Cap Value,Vanguard International Small-Cap Value ETF,VSS
+International Small Cap Value,Invesco International Small Cap Value ETF,ISCV
+International Large Cap Blend,iShares MSCI ACWI ex U.S. ETF,ACWX
+International Large Cap Blend,Vanguard FTSE All-World ex-U.S. ETF,VEU
+International Large Cap Blend,iShares MSCI EAFE ETF,EFA
+International Large Cap Blend,iShares MSCI All Country World ex U.S. ETF,ACWI
+International Large Cap Value,iShares MSCI EAFE Value ETF,EFV
+International Large Cap Value,SPDR S&P International Value ETF,IVLU
+International Large Cap Value,Vanguard International Dividend Appreciation ETF,VIGI
+International Large Cap Value,Invesco International Dividend Achievers ETF,PID
+International Large Cap Value,iShares Global ex U.S. Value ETF,VLUE
+International Small Cap Blend,SPDR S&P International Small Cap ETF,GWX
+International Small Cap Blend,Invesco International Dividend Achievers ETF,PID
+International Small Cap Blend,Vanguard International Small-Cap ETF,VSS

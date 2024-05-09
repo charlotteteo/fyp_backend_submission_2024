@@ -1,0 +1,4 @@
+Trade Date,Instrument Code,Market Code,Quantity,Price,Transaction Type,Exchange Rate (optional),Brokerage (optional),Brokerage Currency (optional),Comments (optional)
+2021-01-21,TSLA,ASX,100,201.8,BUY,,,,"A sample comment, which will be stored in the comments field for this transaction"
+2021-05-14,GOOGL,NZX,2000,140,BUY,,,,
+2020-06-29,AMZN,NASDAQ,300,177,BUY,0.7088527604,2.345,USD,
